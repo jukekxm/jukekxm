@@ -27,4 +27,4 @@ Here are some ideas to get you started:
     * Add tests for CollectionUtils [#33694](https://github.com/spring-projects/spring-framework/pull/33694)
 
 * [spring-kafka](https://github.com/spring-projects/spring-kafka)
-    * GH-3617 : Value parameters in ReactiveKafkaProducerTemplate should be nullable [#3651](https://github.com/spring-projects/spring-kafka/pull/3651)
+    * GH-3617 : Value parameters in ReactiveKafkaProducerTemplate should be nullable [#3651](https://github.com/spring-projects/spring-kafka/pull/3651)  (before merge)
